@@ -15,9 +15,9 @@ StockCode: Product (item) code. Nominal. A 5-digit integral number uniquely assi
 
 Description: Product (item) name.
 
-Nominal.Quantity: The quantities of each product (item) per transaction.
+Quantity: The quantities of each product (item) per transaction.
 
-Numeric.InvoiceDate: Invice date and time. Numeric. The day and time when a transaction was generated.
+InvoiceDate: Invice date and time. Numeric. The day and time when a transaction was generated.
 
 UnitPrice: Unit price. Numeric. Product price per unit in sterling.
 
